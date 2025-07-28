@@ -9,7 +9,7 @@
 🎓 **2nd year student** majoring in **Data Science**  
 📍 Living in **Quận 7, Hồ Chí Minh**, Vietnam  
 💻 Currently working with **Visual Studio Code Extension**  
-📚 **Learning:** Python, TensorFlow, NumPy, PyTorch, Pandas, PostgresSQL
+📚 **Learning:** Python, TensorFlow, NumPy, PyTorch, Pandas, PostgresSQL  
 🤝 **Open to collaborating** on community service projects  
 
 ---
