@@ -9,7 +9,7 @@
 🎓 **2nd year student** majoring in **Data Science**  
 📍 Living in **Quận 7, Hồ Chí Minh**, Vietnam  
 💻 Currently working with **Visual Studio Code Extension**  
-📚 **Learning:** Python, TensorFlow, NumPy, PyTorch, Pandas, SQL, Power BI  
+📚 **Learning:** Python, TensorFlow, NumPy, PyTorch, Pandas, PostgresSQL
 🤝 **Open to collaborating** on community service projects  
 
 ---
@@ -23,7 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+<img src=" https://www.postgresql.org/media/img/about/press/elephant.svg" alt="powerbi" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
