@@ -33,7 +33,7 @@
 
 ---
 
-## 📫 **How to Reach Me**
+## 📫 **Contact me:**
 
 <div align="center">
 
